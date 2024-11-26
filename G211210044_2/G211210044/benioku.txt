@@ -1,0 +1,15 @@
+FONKSİYON TUŞLARI
+
+1 = Crosover işlemini gercekleştirir
+2 = Mutasyon işlemini gercekleştirir
+3 = Otomatık işlemler dosyasını okur ve işlemleri gercekleştirir
+4 = Yazdırma fonksıyonu çağırır
+5 = Programı kapatır
+
+DİKKAT EDİLMESİ GEREKENLER
+
+Atılan veriler dosyası .txt uzantılı olmalı
+Atılan veriler dosyası G211210044 dosyasında olmalı
+Verilerin karakter ve aralıklar bir boşluk olmalı
+
+
